@@ -10,6 +10,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * When run mvn, before check and set
  	JAVA_HOME='C:\Program Files\Java\jdk-11.0.9'
  	echo $JAVA_HOME
+
+ 	mvn dependency:tree
  */
 @SpringBootApplication
 public class Mb2gSpringBootApplication {
