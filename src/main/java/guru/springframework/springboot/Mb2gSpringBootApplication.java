@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  http://localhost:8080
  http://localhost:8080/actuator
+ http://localhost:8080/actuator/info
 
  When run mvn, before check and set
  JAVA_HOME='C:\Program Files\Java\jdk-11.0.9'
